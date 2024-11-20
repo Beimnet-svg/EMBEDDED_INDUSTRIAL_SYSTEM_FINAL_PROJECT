@@ -1,0 +1,4 @@
+
+
+
+void write_score();
